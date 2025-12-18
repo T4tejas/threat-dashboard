@@ -1,0 +1,5 @@
+requests
+OTXv2
+psycopg2-binary
+schedule
+python-dotenv
